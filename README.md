@@ -9,6 +9,13 @@ Do the G !
 도다지씨는 고구마를 찾아 떠난다.
 그러나 고구마를 찾아 먹는 여정은 쉽지 않은데...
 
+####  캐릭터 소개
+![Mole2](https://user-images.githubusercontent.com/83583757/180278791-b6720c3c-9e39-44e5-9a9b-5e6565a9fd96.PNG)
+##### <도다지>
+
+![Sweetpotato](https://user-images.githubusercontent.com/83583757/180278808-6f416838-2097-4f6c-8af5-a8650a64fb8a.PNG)
+##### <고구마>
+
 ### 조작법
 도다지씨는 계속 뛰어갑니다. 
 마우스 왼쪽 클릭 시 고구마를 먹을 수 있습니다. 
