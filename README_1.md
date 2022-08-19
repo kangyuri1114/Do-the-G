@@ -59,3 +59,10 @@ Esc 키로 게임을 종료할 수 있습니다.
 ---|---|
 뛰어가는 고구마를 잡아 점수 획득 | 고구마를 먹으면 점수 획득, Best Score 갱신
 a,b,c,d,e,f,g 단계 | 단계 삭제
+
+### 현재 오류 발생 부분
+
+
+https://user-images.githubusercontent.com/83583757/185638826-7fee898a-5a75-4c16-95e8-8c12e328d343.mp4
+
+
